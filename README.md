@@ -1,139 +1,454 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=230&section=header&text=Shantanu%20Pandey&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20in%20the%20making%20%7C%20Building%20AI-powered%20%26%20Full-Stack%20solutions&descAlignY=52&descSize=16" width="100%"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&duration=3000&pause=1200&color=7DD3FC&center=true&vCenter=true&width=820&lines=Full-Stack+Developer+%7C+MERN+Stack;C%2B%2B+%26+Python+%7C+DSA+Practitioner;Exploring+Generative+AI+%2F+LLM+Applications;Hackathon+Finalist+%7C+Open+Source+Contributor;Open+to+SDE+Internships+%26+Full-Stack+Roles" alt="Typing SVG" /> </a>
+# <div align="center">🚀 Shantanu Pandey</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=250&section=header&text=Shantanu%20Pandey&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20AI%20Builder%20•%20Problem%20Solver&descAlignY=55&descSize=18"/>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=1000&lines=Building+Scalable+Web+Applications;Exploring+Generative+AI+%26+LLM+Systems;400%2B+DSA+Problems+Solved;Hackathon+Finalist+%26+Team+Lead;Open+to+Software+Engineering+Internships" />
+</a>
 
 <br/><br/>
 
-Show Image Show Image
+<img src="https://komarev.com/ghpvc/?username=shantanu-983&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
 
-<br/>
+<img src="https://img.shields.io/github/followers/shantanu-983?label=Followers&style=for-the-badge&color=0ea5e9" />
 
-Show Image Show Image
+<img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge" />
 
-</div> <br/>
-👋 About Me
+<img src="https://img.shields.io/badge/Focus-MERN%20%7C%20AI%20%7C%20DSA-blue?style=for-the-badge" />
 
-I'm Shantanu Pandey, a Computer Science student building toward Software Engineering — with hands-on focus on full-stack web development (MERN), DSA problem-solving in C++ and Python, and applied Generative AI / LLM systems.
-
-🔭 I build products that solve real problems — emergency response, public safety, and AI-assisted tooling — not just tutorial-follow-alongs.
-🌱 Currently deepening my skills in advanced DSA, the MERN stack, and Generative AI / LLM application development.
-🎯 Career goal: land a Software Engineering Internship / Full-Stack or AI-ML role at a product-based company and grow into a strong backend + AI systems engineer.
-🏆 Hackathon finalist and team lead with experience across research, design, and open-source contribution — not just solo coding.
-💬 Ask me about React/Node.js app architecture, DSA in C++/Python, or prompt engineering for LLM apps.
-<br/>
-🏅 Achievements & Journey
-<div align="center">
-Event	Role	Outcome
-🏆 CMR Hackfest 3.0	Researcher & Designer	🎖️ Finalist
-🚀 Yuva 6.0	Researcher, Designer & Team Lead	Led a team through ideation to execution
-🌍 Elite Coders Summer of Code	Open Source Contributor	Contributed to open-source codebase
 </div>
 
-Certifications & Learning
+---
 
-📘 NPTEL Learner
-🤖 Generative AI & LLM Enthusiast
-🧮 Active DSA Practitioner (C++ & Python)
+# 👨‍💻 About Me
 
-📈 DSA progress tracking (LeetCode/GFG) — coming soon as I build out my competitive programming profile.
+I'm **Shantanu Pandey**, a Computer Science Engineering student focused on building real-world software products that create meaningful impact.
 
-<br/>
-🚀 Project Showcase
-🩺 Jeevan Setu — AI Golden Hour Emergency Response Platform
+My work revolves around:
 
-Status: 🚧 In active development — repository launching soon
+* 🌐 Full-Stack Web Development (MERN Stack)
+* 🤖 Generative AI & LLM Applications
+* 🧠 Data Structures & Algorithms
+* 🚑 Public Safety & Emergency Response Solutions
+* 💡 Product Development & Hackathons
 
-Problem it solves: In medical emergencies, the first hour ("Golden Hour") after an accident is the most critical for saving lives — but victims often can't get help fast enough.
+Rather than building tutorial projects, I enjoy creating technology-driven solutions for real challenges in healthcare, safety, accessibility, and community impact.
 
-What it does: Connects accident victims, nearby volunteers, hospitals, and emergency services in real time so help arrives faster.
+---
 
-Key Features
+# 📌 Quick Snapshot
 
-Real-time emergency alert routing to nearby volunteers & hospitals
-AI-assisted triage/response prioritization
-Multi-stakeholder coordination (victim ↔ volunteer ↔ hospital ↔ emergency services)
-Layer	Technology
-Frontend	React.js, HTML5, CSS3, JavaScript
-Backend	Node.js, Express.js
-Database	MongoDB
-AI Layer	Generative AI / LLMs
+```yaml
+Name: Shantanu Pandey
 
-Roadmap: Public GitHub release → live demo deployment → volunteer network pilot
+Role: Full-Stack Developer
 
-🧭 Smart Tourism Safety System — AI + Blockchain Tourist Safety Platform
+Location: India
 
-Status: 🚧 In active development — repository launching soon
+Education:
+  Degree: B.Tech Computer Science Engineering
 
-Problem it solves: Tourists in unfamiliar areas often lack fast, verifiable ways to report incidents or get emergency help.
+Problem Solving:
+  Total Solved: 400+
 
-What it does: Combines AI and blockchain to give tourists secure incident reporting, live location tracking, and emergency assistance.
+Tech Focus:
+  - MERN Stack
+  - Generative AI
+  - Backend Development
+  - System Design
 
-Key Features
+Interests:
+  - Full Stack Engineering
+  - Artificial Intelligence
+  - Open Source
+  - Product Building
+```
 
-Tamper-proof incident reporting via blockchain
-Real-time location tracking for safety monitoring
-AI-assisted risk/emergency detection
-Layer	Technology
-Frontend	React.js, HTML5, CSS3, JavaScript
-Backend	Node.js, Express.js
-Database	MongoDB
-Trust Layer	Blockchain-based verification + Generative AI
+---
 
-Roadmap: Public GitHub release → smart contract integration → live demo deployment
+# 🎓 Education
 
-<br/>
-🛠️ Developer Toolkit
+### B.Tech – Computer Science & Engineering
 
-Languages <img src="https://skillicons.dev/icons?i=c,cpp,python,js" />
+🏫 Oriental Institute of Science & Technology, Bhopal
 
-Frontend <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+📅 Expected Graduation: 2028
 
-Backend <img src="https://skillicons.dev/icons?i=nodejs,express" />
+### Areas of Interest
 
-Database <img src="https://skillicons.dev/icons?i=mongodb" />
+* Full-Stack Development
+* Artificial Intelligence
+* Backend Systems
+* Data Structures & Algorithms
+* Software Engineering
 
-Dev Tools <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+---
 
-<br/>
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shantanu-983&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117&count_private=true&rank_icon=github" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu-983&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0d1117" width="42%" /> <br/> <img src="https://streak-stats.demolab.com/?user=shantanu-983&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%" /> </div>
-🏆 GitHub Trophies
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=shantanu-983&theme=nord&no-frame=true&no-bg=true&margin-w=15&margin-h=15" /> </div>
-📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shantanu-983&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc" width="95%" /> </div> <br/>
-🎯 Current Focus
+# 🧩 Problem Solving Journey
 
-Currently Learning
-
-Advanced DSA (C++ & Python)
-MERN Stack deep-dive (auth, scalability, deployment)
-Generative AI & LLM application development
-Open-source contribution workflows
-
-Upcoming Goals
-
-Land a Software Engineering / Full-Stack Internship
-Prepare for product-based company interviews
-Ship Jeevan Setu & Smart Tourism Safety System publicly
-Build more AI-powered full-stack applications
-<br/>
-🌍 Open Source & Collaboration
-
-I'm actively looking to contribute more to open source — I got my start at Elite Coders Summer of Code and want to keep building that habit.
-
-💡 Interested in contributing to: MERN-stack apps, DSA/algorithm visualizers, AI/LLM tooling
-🤝 Open to collaborating on: beginner-friendly full-stack or AI projects, hackathon teams
-📬 Reach out if: you're maintaining a beginner-friendly repo, running a hackathon, or hiring for internships/full-stack/AI roles
-<br/>
-💼 Why Hire Me?
-⚙️ Full-stack builder — comfortable across React/Node/Express/MongoDB, not just one layer
-🧩 Strong problem-solver — active DSA practice in C++ and Python
-🏆 Proven under pressure — hackathon finalist (CMR Hackfest 3.0) and team lead (Yuva 6.0)
-🤝 Collaborative — led teams, contributed to open source, worked cross-functionally as researcher/designer/developer
-🚀 Fast learner with real momentum — actively expanding into Generative AI/LLM application development
-📈 Growth mindset — building in public, shipping real projects (Jeevan Setu, Smart Tourism Safety System) rather than only tutorials
-<br/>
-🤝 Connect With Me
 <div align="center">
 
-Show Image Show Image Show Image
+| Platform      | Problems Solved |
+| ------------- | --------------- |
+| LeetCode      | 200+            |
+| GeeksforGeeks | 200+            |
+| Total         | 400+            |
 
-</div> <br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=150&section=footer&animation=twinkling" width="100%"/>
+</div>
+
+### Topics Practiced
+
+✅ Arrays
+
+✅ Strings
+
+✅ Linked Lists
+
+✅ Stacks & Queues
+
+✅ Trees
+
+✅ Graphs
+
+✅ Binary Search
+
+✅ Greedy Algorithms
+
+✅ Recursion
+
+✅ Dynamic Programming
+
+### Current Goal
+
+🎯 Reach **500+ Problems Solved**
+
+🎯 Improve Contest Performance
+
+🎯 Strengthen Problem Solving for Product Companies
+
+---
+
+# 🏆 Achievements & Leadership
+
+<div align="center">
+
+| Achievement                    | Role                    |
+| ------------------------------ | ----------------------- |
+| 🏆 CMR Hackfest 3.0            | Finalist                |
+| 🚀 Yuva 6.0                    | Team Lead               |
+| 🌍 Elite Coders Summer of Code | Open Source Contributor |
+| 📘 NPTEL Learning Journey      | Active Learner          |
+| 🤖 Generative AI Exploration   | Ongoing                 |
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🩺 Jeevan Setu
+
+### Problem
+
+Accident victims often lose critical time before receiving emergency assistance during the Golden Hour.
+
+### Why It Matters
+
+Fast emergency response can significantly improve survival outcomes.
+
+### Solution
+
+An AI-powered emergency response ecosystem connecting victims, volunteers, hospitals, and emergency services in real time.
+
+### Core Features
+
+* Emergency Alert Routing
+* Nearby Volunteer Network
+* AI Assisted Response Prioritization
+* Hospital Coordination
+* Emergency Analytics Dashboard
+
+### Tech Stack
+
+```text
+React.js
+Node.js
+Express.js
+MongoDB
+Generative AI
+```
+
+### Status
+
+🚧 Under Development
+
+### Future Roadmap
+
+* Public Release
+* Live Deployment
+* Volunteer Network Integration
+* Emergency Analytics Engine
+
+---
+
+## 🧭 Smart Tourism Safety System
+
+### Problem
+
+Tourists often face safety challenges and delayed emergency support in unfamiliar locations.
+
+### Why It Matters
+
+Safe tourism improves visitor confidence and emergency preparedness.
+
+### Solution
+
+An AI and Blockchain-powered platform for tourist safety and incident management.
+
+### Core Features
+
+* Secure Incident Reporting
+* Location Tracking
+* Emergency Assistance
+* AI Risk Detection
+* Blockchain Verification
+
+### Tech Stack
+
+```text
+React.js
+Node.js
+Express.js
+MongoDB
+Blockchain
+Generative AI
+```
+
+### Status
+
+🚧 Under Development
+
+### Future Roadmap
+
+* Smart Contract Integration
+* Real-Time Monitoring Dashboard
+* Deployment & Pilot Testing
+
+---
+
+# 🛠️ Developer Toolkit
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+## Dev Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+## AI & LLM
+
+```text
+Prompt Engineering
+Generative AI
+LLM Applications
+AI Workflows
+```
+
+---
+
+# 🤖 AI & LLM Exploration
+
+Currently exploring:
+
+* Prompt Engineering
+* Generative AI Applications
+* AI Product Development
+* AI Assisted Automation
+* LLM Powered Solutions
+
+### Goal
+
+Build production-ready AI-powered applications integrated with modern web technologies.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shantanu-983&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu-983&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=shantanu-983&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shantanu-983&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shantanu-983&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+### Currently Learning
+
+* Advanced DSA
+* MERN Stack
+* Backend Architecture
+* Open Source Contributions
+* Generative AI & LLMs
+
+### 2026 Goals
+
+* Solve 500+ DSA Problems
+* Deploy Major Projects
+* Contribute to Open Source
+* Secure Software Engineering Internship
+* Build AI-Powered Products
+
+---
+
+# 🌍 Open Source & Collaboration
+
+I am actively looking to collaborate with developers, students, and open-source communities.
+
+### Interested In
+
+* MERN Applications
+* AI & LLM Projects
+* DSA Tools
+* Developer Productivity Tools
+
+### Open To
+
+* Open Source Contributions
+* Hackathons
+* Team Projects
+* Research-Based Innovations
+
+---
+
+# 💼 Why Work With Me
+
+### ⚙️ Full Stack Builder
+
+Comfortable working across frontend, backend, databases, and deployment workflows.
+
+### 🧠 Problem Solver
+
+400+ DSA problems solved with continuous improvement.
+
+### 🏆 Leadership Experience
+
+Led teams in hackathons and collaborative projects.
+
+### 🤝 Team Player
+
+Experience collaborating across research, design, and development.
+
+### 🚀 Growth-Oriented
+
+Focused on building impactful products while continuously learning emerging technologies.
+
+---
+
+# 🌐 Coding Profiles
+
+<div align="center">
+
+<a href="https://github.com/shantanu-983">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" />
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks" />
+</a>
+
+</div>
+
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shantanu-983">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Building Technology for Real-World Impact
+
+*"Code is most valuable when it solves meaningful problems."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=150&section=footer"/>
