@@ -1,103 +1,120 @@
-<!-- Profile README for github.com/shantanu-983 -->
-<div align="center">
+ <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=220&section=header&text=Shantanu%20Pandey&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Computer%20Science%20Student%20%7C%20Software%20Developer%20in%20the%20Making&descAlignY=55&descSize=16" width="100%" alt="Shantanu Pandey profile banner"/>
 
-# Hey, I'm Shantanu Pandey 👋
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=850&lines=Practising+DSA+with+C%2B%2B;Building+responsive+web+experiences;Exploring+Generative+AI+and+LLM+applications;Learning+AWS+Cloud+Fundamentals;Turning+ideas+into+useful+software" alt="Animated typing introduction"/>
 
-### Computer Science Engineering Student | Aspiring Software Developer
-
-I enjoy solving problems with code, building clean web experiences, and exploring how AI can make software more useful.
-
-[![GitHub](https://img.shields.io/badge/GitHub-shantanu--983-181717?style=for-the-badge&logo=github)](https://github.com/shantanu-983)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20your%20profile-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/shantanu-pandey-b8067530a)
-
-<img src="Assets/output.gif" alt="Animated developer-themed city scene" width="360" />
-
+  <p>
+    <a href="https://github.com/shantanu-983">
+      <img src="https://img.shields.io/badge/GitHub-shantanu--983-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=shantanu-983&style=for-the-badge&color=0ea5e9" alt="Profile views"/>
+  </p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- 🎓 Pursuing a **B.Tech in Computer Science Engineering**.
-- 🧩 Practising **Data Structures and Algorithms in C++**.
-- 🌐 Building my foundations in **frontend and web development**.
-- 🤖 Exploring **AI, Generative AI, and practical LLM applications**.
-- 🚀 Interested in turning project ideas into useful, deployable products.
-- 📍 Based in India.
+I'm **Shantanu Pandey**, a B.Tech Computer Science Engineering student at **Oriental Institute of Science & Technology, Bhopal**. I'm building my foundations in software development through problem-solving, web development, cloud fundamentals, and practical AI exploration.
 
----
+- 🧠 Practising Data Structures and Algorithms in C++
+- 🌐 Building responsive frontend projects and learning modern web development
+- 🤖 Exploring Generative AI, LLM applications, and AI-powered products
+- ☁️ Learning cloud fundamentals through AWS Academy Cloud Foundations and its sandbox
+- 🚀 Interested in building useful, deployable projects—not just tutorial demos
+- 📍 India
 
-## 🚀 My Developer Journey
+## 🎬 My Developer Journey
 
 <p align="center">
-  <img src="./output.gif" alt="Shantanu's animated developer profile" width="700" />
+  <img src="./output.gif" alt="Shantanu's animated developer journey" width="700"/>
 </p>
 
----
+## 🛠️ Tech Stack & Tools
 
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,javascript" alt="C++, C, Python, JavaScript" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,html,css,js,react,nodejs,express,mongodb,git,github,vscode,aws" alt="Technologies and tools"/>
 </p>
 
-### Web Development
+**Currently learning:** React and modern JavaScript, backend fundamentals, AWS cloud services, and practical GenAI/LLM development.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript, React" />
-</p>
+*These icons represent technologies I use or am learning; they do not imply expert-level proficiency in every tool.*
 
-### Cloud & DevOps
+## 🎓 Education
 
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services (AWS)" />
-</p>
+**B.Tech — Computer Science & Engineering**  
+Oriental Institute of Science & Technology (OIST), Bhopal  
+Expected graduation: 2028
 
-Currently learning cloud fundamentals through **AWS Academy Cloud Foundations** and hands-on exploration in the AWS Academy sandbox.
+## 🚀 Projects
 
-### Tools
+### 🌾 AI-Powered Smart Agriculture Advisory & Market Intelligence Platform
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, Visual Studio Code" />
-</p>
+A student project exploring how agricultural information can support farmers' decisions.
 
-> Currently strengthening my fundamentals. The icons represent technologies I use or am learning—not a claim of expert-level proficiency.
+- **Smart Mandi Decision Engine:** Compare estimated net realization after transport costs across mandis.
+- **Crop Opportunity Engine:** Explore crop choices using relevant growing conditions and market signals.
+- **Climate Risk Engine:** Present relevant weather and climate risks.
+- **Government Support Engine:** Organize relevant schemes and information.
+- **Village Agriculture Dashboard:** Bring local agricultural indicators together.
 
-## 🌱 Currently Learning
+*Project in development. Recommendations and scores are decision-support estimates, not guaranteed predictions.*
 
-- Writing more efficient solutions to DSA problems
-- Responsive interfaces and modern JavaScript
-- AI/GenAI fundamentals and practical applications
-- AWS cloud fundamentals and core cloud services
-- Core computer science concepts for software engineering interviews
+### 🛒 Baba Departmental Store
 
-## 🚧 Projects
+A responsive e-commerce-style frontend for a local departmental store.
 
-- **AI-Powered Smart Agriculture Advisory & Market Intelligence Platform** — a student project exploring mandi selling decisions, crop opportunities, climate risks, and relevant government support.
-- **Baba Departmental Store** — a responsive e-commerce-style frontend for a local departmental store.
+- Product-focused layout for everyday essentials.
+- Responsive design for desktop and mobile.
+- Frontend project focused on usability and presentation.
 
-Explore my repositories for code, progress, and project details: **[github.com/shantanu-983](https://github.com/shantanu-983?tab=repositories)**
+Explore my repositories: [**github.com/shantanu-983**](https://github.com/shantanu-983?tab=repositories)
+
+## 🏅 Activities & Learning
+
+- Practising DSA on LeetCode and GeeksforGeeks.
+- Exploring Generative AI and LLM applications.
+- Learning cloud fundamentals with AWS Academy.
+- Interested in hackathons, open-source collaboration, and building products with a team.
+
+## ☁️ AWS Learning
+
+I'm currently learning cloud fundamentals through **AWS Academy Cloud Foundations** and hands-on exploration in the AWS Academy sandbox. The sandbox is temporary, so I use it to learn and experiment with AWS services rather than represent it as a production deployment.
 
 ## 📊 GitHub Overview
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shantanu-983&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu-983&layout=compact&hide_border=true" alt="Most used languages on GitHub" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=shantanu-983&hide_border=true" alt="GitHub contribution streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=shantanu-983&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
+
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanu-983&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+
+  <br/>
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=shantanu-983&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 </div>
+
+## 🎯 Current Focus
+
+- Improve problem-solving skills and revise DSA patterns.
+- Build stronger responsive interfaces and JavaScript fundamentals.
+- Develop and document practical portfolio projects.
+- Learn AWS core services and cloud concepts.
+- Explore practical GenAI/LLM use cases.
 
 ## 🤝 Connect
 
 - **GitHub:** [@shantanu-983](https://github.com/shantanu-983)
-- **LinkedIn:** [@SHANTANU PANDEY](www.linkedin.com/in/shantanu-pandey-b8067530a)
-- **Portfolio:** Add your portfolio URL when ready
-- **Email:** Add a public contact email if you want recruiters to reach you
+- **LinkedIn:** Replace the link with your personal profile URL.
+- **Portfolio:** Add your portfolio link when it is ready.
+- **Email:** Add a public contact email if you want recruiters to contact you.
 
 ---
 
 <div align="center">
   <i>Learn consistently. Build thoughtfully. Improve every day.</i>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:7dd3fc&height=120&section=footer" width="100%" alt="Footer banner"/>
 </div>
