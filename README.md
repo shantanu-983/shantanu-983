@@ -25,6 +25,16 @@ I enjoy solving problems with code, building clean web experiences, and explorin
 - 🚀 Interested in turning project ideas into useful, deployable products.
 - 📍 Based in India.
 
+---
+
+## 🚀 My Developer Journey
+
+<p align="center">
+  <img src="./output.gif" alt="Shantanu's animated developer profile" width="600" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Languages
