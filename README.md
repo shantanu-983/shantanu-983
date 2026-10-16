@@ -39,6 +39,14 @@ I enjoy solving problems with code, building clean web experiences, and explorin
   <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript, React" />
 </p>
 
+### Cloud & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services (AWS)" />
+</p>
+
+Currently learning cloud fundamentals through **AWS Academy Cloud Foundations** and hands-on exploration in the AWS Academy sandbox.
+
 ### Tools
 
 <p>
@@ -52,6 +60,7 @@ I enjoy solving problems with code, building clean web experiences, and explorin
 - Writing more efficient solutions to DSA problems
 - Responsive interfaces and modern JavaScript
 - AI/GenAI fundamentals and practical applications
+- AWS cloud fundamentals and core cloud services
 - Core computer science concepts for software engineering interviews
 
 ## 🚧 Projects
