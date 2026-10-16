@@ -8,7 +8,7 @@
 I enjoy solving problems with code, building clean web experiences, and exploring how AI can make software more useful.
 
 [![GitHub](https://img.shields.io/badge/GitHub-shantanu--983-181717?style=for-the-badge&logo=github)](https://github.com/shantanu-983)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20your%20profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20your%20profile-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/shantanu-pandey-b8067530a)
 
 <img src="Assets/output.gif" alt="Animated developer-themed city scene" width="360" />
 
@@ -30,7 +30,7 @@ I enjoy solving problems with code, building clean web experiences, and explorin
 ## 🚀 My Developer Journey
 
 <p align="center">
-  <img src="./output.gif" alt="Shantanu's animated developer profile" width="600" />
+  <img src="./output.gif" alt="Shantanu's animated developer profile" width="700" />
 </p>
 
 ---
@@ -92,7 +92,7 @@ Explore my repositories for code, progress, and project details: **[github.com/s
 ## 🤝 Connect
 
 - **GitHub:** [@shantanu-983](https://github.com/shantanu-983)
-- **LinkedIn:** Add your personal LinkedIn profile URL
+- **LinkedIn:** [@SHANTANU PANDEY](www.linkedin.com/in/shantanu-pandey-b8067530a)
 - **Portfolio:** Add your portfolio URL when ready
 - **Email:** Add a public contact email if you want recruiters to reach you
 
